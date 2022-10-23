@@ -1,2 +1,9 @@
-# React--portfolio-demo-code
-This repo contains the demo code for my upcoming react portfolio website...
+# Mrinmoy - The Ultimate Web  Portfolio 
+
+## Introduction
+This is a code repository for my upcoming portfolio website.
+
+Do you know the best way to show your skills to employers or potential clients? Stand out from the crowd by presenting a well-digitalized flexible portfolio and get your dream job.
+
+## Stay up to date with new projects
+New major projects coming soon, subscribe to the mailing list to stay up to date....😀
